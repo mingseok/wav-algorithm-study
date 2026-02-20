@@ -1,3 +1,5 @@
+### k진수에서 소수 개수 구하기 - 92335번
+```JAVA
 /**
 * 진수 변환: Integer.toString(int n, int k) -> int 타입의 숫자 n을 k진수로 변환
 * split("0+") 정규식 사용으로 연속된 0을 하나로 처리
@@ -31,3 +33,4 @@ class Solution {
         return true;
     }
 }
+```
