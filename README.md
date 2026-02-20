@@ -12,9 +12,9 @@
 
 
 
-| 임강현 | 곽남호 | 최하나 | 김민석 | 박호영 | 이나영 |
-| --- | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/LimKangHyun) | [깃허브](https://github.com/saron6557-sudo) | [깃허브](https://github.com/hanachooi) | [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/alex-1676) | [깃허브](https://github.com/LEENaYeongg) |
+| 임강현 | 곽남호 | 최하나 | 김민석 | 박호영 | 이나영 | 박지혁 | 김준하 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [깃허브](https://github.com/LimKangHyun) | [깃허브](https://github.com/saron6557-sudo) | [깃허브](https://github.com/hanachooi) | [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/alex-1676) | [깃허브](https://github.com/LEENaYeongg) | [깃허브](https://github.com/https://github.com/20181169) | [깃허브](https://github.com/https://github.com/junha13) |
 
 
 
